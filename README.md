@@ -35,7 +35,7 @@
       </p>
     </td>
     <td width="30%" align="center" valign="top">
-      <img src="https://via.placeholder.com/200x200/0D1117/30A9DE?text=Code+&+Design" alt="Profile Illustration" width="200" style="border-radius: 50%;">
+      <img src="https://via.placeholder.com/200x200/0D1117/30A9DE?text=CODE+&+DESIGN" alt="Profile Illustration" width="200" style="border-radius: 50%;">
     </td>
   </tr>
 </table>
@@ -84,7 +84,7 @@
         <img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
         <img src="https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
         <img src="https://img.shields.io/badge/Firebase-1A1A1A?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase">
-        <img src="https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazon-aws&logoColor=232F3E" alt="AWS">
+        <img src="https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS">
         <img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
       </p>
     </td>
