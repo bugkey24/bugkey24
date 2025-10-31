@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1280x320/0D1117/0D1117.png" alt="Profile Banner">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:30A9DE,100:0D1117&height=250&section=header" alt="Profile Banner">
 </p>
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Waving hand">
   &nbsp;
-  Howdy! I'm [Your Name]
+  Howdy! I'm Dida Hanum Pradipta
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=30A9DE&center=true&vCenter=true&width=435&lines=IT+Student;Graphic+Designer;UI%2FUX+Enthusiast;Video+Editor;Full-Stack+Developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=30A9DE&center=true&vCenter=true&width=500&lines=IT+Student;Graphic+Designer;UI%2FUX+Enthusiast;Video+Editor;Programming;Technology+Enthusiast" alt="Typing SVG">
   </a>
 </p>
 
@@ -39,7 +39,7 @@
       </p>
     </td>
     <td width="30%" align="center" valign="top">
-      <img src="https://i.imgur.com/gA3gMiT.png" alt="Profile Illustration" width="200">
+      <img src="https://via.placeholder.com/200x200/0D1117/30A9DE?text=Code+&+Design" alt="Profile Illustration" width="200" style="border-radius: 50%;">
     </td>
   </tr>
 </table>
@@ -102,9 +102,9 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=bugkey24&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugkey24&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" alt="Top Languages" width="48%">
 </p>
 
 <br>
@@ -135,5 +135,5 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&color=0D1117&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=bugkey24&color=0D1117&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter">
 </p>
